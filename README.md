@@ -5,7 +5,7 @@ A Windows batch script that generates an HTML page listing all git repositories 
 ## Features
 
 - **WSL Repos**: Scans `~/` in WSL for git repositories
-- **SSH Repos**: Scans all hosts from Windows SSH config (`~/.ssh/config`)
+- **SSH Repos**: Scans all hosts from Windows SSH config (`%USERPROFILE%\.ssh\config`)
 - **Tree Structure**: Displays repos in a tree format showing nested directories
 - **One-Click Open**: Links open VS Code Remote (WSL or SSH) in a new window
 - **Offline Detection**: Shows which SSH hosts are unreachable
