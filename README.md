@@ -18,18 +18,18 @@ Double-click `git-repos.bat` on Windows Desktop.
 
 ```
 ~/ (WSL)
-+-- bible-stories
-+-- algo_trading
-+-- stt-children
-:   +-- _clones
-:   :   +-- hero-logo-navbar
-:   :   +-- transcribe-progress-timestamps
++-- my-project
++-- web-app
++-- backend-services
+:   +-- plugins
+:   :   +-- auth-module
+:   :   +-- logging-utils
 
-SSH: mixtiles
+SSH: my-server
 ~/
-+-- album-maker
-:   +-- _clones
-:   :   +-- train-aesthetics
++-- api-server
+:   +-- experiments
+:   :   +-- feature-branch
 ```
 
 ## Requirements
